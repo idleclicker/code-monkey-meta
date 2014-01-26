@@ -10,4 +10,5 @@ Created by Alberto Leal (Dashed) and David Tran (unsignedzero)
 
 # Version/Changelog #
 
+* Added initial ERA and RULES files.
 * Initial README and .gitignore created.
