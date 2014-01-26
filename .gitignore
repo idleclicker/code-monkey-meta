@@ -1,0 +1,27 @@
+# Vim cache files (end in ~)
+*.*~
+
+# Ignores gitmsg which I use to store and edit my commit messaegs.
+gitmsg
+
+# Mac OS X
+.DS_Store
+profile
+
+# Latex
+*.aux
+
+# Backup files
+*.bku
+*.bku~
+*~.nib
+
+# Compressed Files
+*.7z
+*.gz
+*.rar
+*.tgz
+*.txz
+*.tar
+*.xz
+*.zip
