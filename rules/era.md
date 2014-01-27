@@ -1,4 +1,4 @@
-The ERAs, and thus rules, will be contained in a JSON file.
+The notion of **era**, will be contained in a JSON file.
 
 Units of SLOC Gens are (SLOC/s)
 Upgrades must start with a math operator
