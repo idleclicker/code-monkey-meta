@@ -10,5 +10,6 @@ Created by Alberto Leal (Dashed) and David Tran (unsignedzero)
 
 # Version/Changelog #
 
+* New 'Events' flag added
 * Added initial ERA and RULES files.
 * Initial README and .gitignore created.

@@ -18,3 +18,13 @@ Story
 In story mode, difficult determines how far back the game will start and thus
 how powerful some of the tools are. As with money and the like, older stuff
 can scale to be better than new or worse, depending on the conditions.
+
+Events
+======
+
+As with other games, we need random events of some form. Perhaps a 'bit' of
+the day or even a 'nibble'? Maybe we can make it an upgrade. To move onto
+a 'byte' you have to upgrade. Maybe we can show the event level as an apple
+that gets closer to being just a core of an apple as more bites are taken.
+
+Alternatively we might just might consider it a 'flag'.
