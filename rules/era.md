@@ -8,7 +8,12 @@ Upgrades must start with a math operator
 
 All eras have 'worker' units that perform the task. They
 can moved to do work with their cost decreasing over
-the era.
+eras.
+
+Another question to consider, do we make upgrades cheaper
+over time, more expensive or the same price?
+
+Era 255: (Gates)
 
 Era 0: (Pre ASM)
   SLOC Generators:
@@ -30,3 +35,11 @@ Era 1: (ASM)
   Choices:
     ?
 
+Era 2: ALGOL, Cobol, Fortran, Lisp, Log
+Era 3: Basic, MUMPS
+Era 4: C, Pascal, Prolog, Sh(Bash)
+Era 4.5: (DSL) [Matlab, S]
+Era 5: C++, LabVIEW, Mathematica, Objective-C, Perl, Scheme, VHDL/Verilog
+Era 6: GML, Java, Javascript, Lua, Haskell, R, Python, Ruby, Visual Basic
+Era 7: C#, D, Flex, PowerShell
+Era 8: Dart, Go, Rust
