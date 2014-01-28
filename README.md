@@ -10,6 +10,7 @@ Created by Alberto Leal (Dashed) and David Tran (unsignedzero)
 
 # Version/Changelog #
 
+* Era file being fleshed out.
 * Compiled a list of some common programming languages by decade.
 * New 'Events' flag added
 * Added initial ERA and RULES files.
