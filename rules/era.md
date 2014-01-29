@@ -20,6 +20,21 @@ into this ERA file.
 Another question to consider, do we make upgrades cheaper
 over time, more expensive or the same price?
 
+## Alternative Costs ##
+
+Flesh out a bit in the issues for the Github repo but, will we have
+alternative costs like people? This will allow for alternative units
+like ***projects*** completed, ***files/projects*** created and the like.
+
+Perhaps these will be used in upgrades and the like?
+
+## SLOC Containers ##
+
+This might make some sense in the earlier eras but given the fact that
+processing power and memory/space was very small, there might have
+to be a cost in holding SLOC and a build time to say build the project,
+via collecting the SLOCs and what not.
+
 Era 255: (Gates)
   SLOC Generators:
     NAND/NOR Gate 1 ( 10?-clicks )
