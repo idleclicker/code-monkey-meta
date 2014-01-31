@@ -10,6 +10,7 @@ Created by Alberto Leal (Dashed) and David Tran (unsignedzero)
 
 # Version/Changelog #
 
+* Added more era ideas.
 * Added container and alternative cost idea in code.
 * Era file being fleshed out.
 * Compiled a list of some common programming languages by decade.

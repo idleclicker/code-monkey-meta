@@ -8,7 +8,13 @@ Upgrades must start with a math operator
 
 All eras have 'worker' units that perform the task. They
 can moved to do work with their cost decreasing over
-eras.
+eras. As with a timeline, we might add in bonus eras that provide certain
+benefits to the rest of game and conditions for getting it.
+
+The act of transition to the next era, can vary. Currently, we might
+have the player unlock it but one option to consider is a timed game,
+where eras will auto advance and players compete for a high score,
+in a fixed amount of time.
 
 ## Tools ##
 
@@ -17,14 +23,23 @@ As one might guess coding is not without tools. This might
 paths for certain gains/losses. As of now, these will be integrated
 into this ERA file.
 
-Another question to consider, do we make upgrades cheaper
+These will include
+  * equipment upgrades
+  * new application/platforms used
+  * potentially new coding techinques (this might be moved out later)
+  * new community/forums
+
+Another question to consider, do we make tools and their upgrades cheaper
 over time, more expensive or the same price?
+
+##
+
 
 ## Alternative Costs ##
 
 Flesh out a bit in the issues for the Github repo but, will we have
 alternative costs like people? This will allow for alternative units
-like ***projects*** completed, ***files/projects*** created and the like.
+like ***projects*** completed, ***files/projects*** created and the like?
 
 Perhaps these will be used in upgrades and the like?
 
@@ -33,7 +48,8 @@ Perhaps these will be used in upgrades and the like?
 This might make some sense in the earlier eras but given the fact that
 processing power and memory/space was very small, there might have
 to be a cost in holding SLOC and a build time to say build the project,
-via collecting the SLOCs and what not.
+via collecting the SLOCs and what not. After all does anyone have zip 100s?
+
 
 Era 255: (Gates)
   SLOC Generators:
