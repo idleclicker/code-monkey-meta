@@ -10,6 +10,7 @@ Created by Alberto Leal (Dashed) and David Tran (unsignedzero)
 
 # Version/Changelog #
 
+* Story mode has two flavors. Ballmer peak added.
 * Added more era ideas.
 * Added container and alternative cost idea in code.
 * Era file being fleshed out.
