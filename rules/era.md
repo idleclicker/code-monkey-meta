@@ -11,6 +11,11 @@ can moved to do work with their cost decreasing over
 eras. As with a timeline, we might add in bonus eras that provide certain
 benefits to the rest of game and conditions for getting it.
 
+Another option to consider is to not have workers and be a solo worker.
+We might have to consider the pros and cons of it.
+
+(The timed era transitions might not be implemented early since its not
+ typical of a clicker game to have that.)
 The act of transition to the next era, can vary. Currently, we might
 have the player unlock it but one option to consider is a timed game,
 where eras will auto advance and players compete for a high score,
@@ -26,7 +31,7 @@ into this ERA file.
 These will include
   * equipment upgrades
   * new application/platforms used
-  * potentially new coding techinques (this might be moved out later)
+  * potentially new coding techniques (this might be moved out later)
   * new community/forums
 
 Another question to consider, do we make tools and their upgrades cheaper
@@ -50,7 +55,9 @@ processing power and memory/space was very small, there might have
 to be a cost in holding SLOC and a build time to say build the project,
 via collecting the SLOCs and what not. After all does anyone have zip 100s?
 
+Related to this might be security if the SLOC are used to build new products.
 
+No worker helpers available.
 Era 255: (Gates)
   SLOC Generators:
     NAND/NOR Gate 1 ( 10?-clicks )
@@ -72,6 +79,8 @@ Era 255: (Gates)
       FF ( -1 click ) Only on third or later playthrough
 
   Choice:
+    You can only pick NANDs or NORs.
+  Perhaps around ~3000 clicks to get to next era? IC era?
 
 Era 0: (Pre ASM)
   SLOC Generators:

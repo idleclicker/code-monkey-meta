@@ -19,6 +19,11 @@ In story mode, difficult determines how far back the game will start and thus
 how powerful some of the tools are. As with money and the like, older stuff
 can scale to be better than new or worse, depending on the conditions.
 
+Story mode itself has two flavors, timed and untimed. In timed, the eras will
+auto-advance, like life, and untimed is where players will need to fulfill
+certain conditions to advance the timeline. In the case of it being timed,
+players can possibly compete for a high score.
+
 Events
 ======
 
@@ -27,4 +32,10 @@ the day or even a 'nibble'? Maybe we can make it an upgrade. To move onto
 a 'byte' you have to upgrade. Maybe we can show the event level as an apple
 that gets closer to being just a core of an apple as more bites are taken.
 
-Alternatively we might just might consider it a 'flag'.
+Alternatively, we might just might consider it a 'flag'.
+
+Ballmer Peak
+============
+This might just be the golden cookie in this game. Hitting this, correctly,
+will yield increase generation of SLOC.
+
